@@ -28,12 +28,35 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Menu";
+            button1 = new Button();
+            SuspendLayout();
+            // 
+            // button1
+            // 
+            button1.Font = new Font("Segoe UI", 28.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            button1.Location = new Point(213, 91);
+            button1.Name = "button1";
+            button1.Size = new Size(295, 174);
+            button1.TabIndex = 0;
+            button1.Text = "boton ";
+            button1.TextAlign = ContentAlignment.TopCenter;
+            button1.TextImageRelation = TextImageRelation.TextAboveImage;
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
+            // Menu
+            // 
+            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            Controls.Add(button1);
+            Name = "Menu";
+            Text = "Menu";
+            ResumeLayout(false);
         }
 
         #endregion
+
+        private Button button1;
     }
 }

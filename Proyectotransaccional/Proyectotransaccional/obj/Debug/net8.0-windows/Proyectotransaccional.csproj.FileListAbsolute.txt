@@ -17,3 +17,22 @@ C:\GIT\Proyecto 1 GIT\Proyecto\Proyectotransaccional\Proyectotransaccional\obj\D
 C:\GIT\Proyecto 1 GIT\Proyecto\Proyectotransaccional\Proyectotransaccional\obj\Debug\net8.0-windows\Proyectotransaccional.Login.resources
 C:\GIT\Proyecto 1 GIT\Proyecto\Proyectotransaccional\Proyectotransaccional\obj\Debug\net8.0-windows\Proyectotransaccional.Menu.resources
 C:\GIT\Proyecto 1 GIT\Proyecto\Proyectotransaccional\Proyectotransaccional\obj\Debug\net8.0-windows\Proyectotransaccional.Properties.Resources.resources
+D:\github\proyecto\Proyecto\Proyectotransaccional\Proyectotransaccional\bin\Debug\net8.0-windows\Proyectotransaccional.exe
+D:\github\proyecto\Proyecto\Proyectotransaccional\Proyectotransaccional\bin\Debug\net8.0-windows\Proyectotransaccional.deps.json
+D:\github\proyecto\Proyecto\Proyectotransaccional\Proyectotransaccional\bin\Debug\net8.0-windows\Proyectotransaccional.runtimeconfig.json
+D:\github\proyecto\Proyecto\Proyectotransaccional\Proyectotransaccional\bin\Debug\net8.0-windows\Proyectotransaccional.dll
+D:\github\proyecto\Proyecto\Proyectotransaccional\Proyectotransaccional\bin\Debug\net8.0-windows\Proyectotransaccional.pdb
+D:\github\proyecto\Proyecto\Proyectotransaccional\Proyectotransaccional\obj\Debug\net8.0-windows\Proyectotransaccional.Login.resources
+D:\github\proyecto\Proyecto\Proyectotransaccional\Proyectotransaccional\obj\Debug\net8.0-windows\Proyectotransaccional.Menu.resources
+D:\github\proyecto\Proyecto\Proyectotransaccional\Proyectotransaccional\obj\Debug\net8.0-windows\Proyectotransaccional.Properties.Resources.resources
+D:\github\proyecto\Proyecto\Proyectotransaccional\Proyectotransaccional\obj\Debug\net8.0-windows\Proyectotransaccional.csproj.GenerateResource.cache
+D:\github\proyecto\Proyecto\Proyectotransaccional\Proyectotransaccional\obj\Debug\net8.0-windows\Proyectotransaccional.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\proyecto\Proyecto\Proyectotransaccional\Proyectotransaccional\obj\Debug\net8.0-windows\Proyectotransaccional.AssemblyInfoInputs.cache
+D:\github\proyecto\Proyecto\Proyectotransaccional\Proyectotransaccional\obj\Debug\net8.0-windows\Proyectotransaccional.AssemblyInfo.cs
+D:\github\proyecto\Proyecto\Proyectotransaccional\Proyectotransaccional\obj\Debug\net8.0-windows\Proyectotransaccional.csproj.CoreCompileInputs.cache
+D:\github\proyecto\Proyecto\Proyectotransaccional\Proyectotransaccional\obj\Debug\net8.0-windows\Proyectotransaccional.sourcelink.json
+D:\github\proyecto\Proyecto\Proyectotransaccional\Proyectotransaccional\obj\Debug\net8.0-windows\Proyectotransaccional.dll
+D:\github\proyecto\Proyecto\Proyectotransaccional\Proyectotransaccional\obj\Debug\net8.0-windows\refint\Proyectotransaccional.dll
+D:\github\proyecto\Proyecto\Proyectotransaccional\Proyectotransaccional\obj\Debug\net8.0-windows\Proyectotransaccional.pdb
+D:\github\proyecto\Proyecto\Proyectotransaccional\Proyectotransaccional\obj\Debug\net8.0-windows\Proyectotransaccional.genruntimeconfig.cache
+D:\github\proyecto\Proyecto\Proyectotransaccional\Proyectotransaccional\obj\Debug\net8.0-windows\ref\Proyectotransaccional.dll

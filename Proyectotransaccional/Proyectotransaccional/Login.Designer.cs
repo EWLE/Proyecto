@@ -46,9 +46,9 @@
             label1.BackColor = Color.Transparent;
             label1.Font = new Font("Stencil", 48F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label1.ForeColor = Color.LightSlateGray;
-            label1.Location = new Point(294, 53);
+            label1.Location = new Point(336, 71);
             label1.Name = "label1";
-            label1.Size = new Size(215, 76);
+            label1.Size = new Size(270, 95);
             label1.TabIndex = 0;
             label1.Text = "Login";
             label1.Click += label1_Click;
@@ -59,9 +59,9 @@
             label2.BackColor = Color.Transparent;
             label2.Font = new Font("Tw Cen MT", 27.75F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
             label2.ForeColor = Color.Red;
-            label2.Location = new Point(105, 268);
+            label2.Location = new Point(120, 357);
             label2.Name = "label2";
-            label2.Size = new Size(179, 43);
+            label2.Size = new Size(225, 54);
             label2.TabIndex = 1;
             label2.Text = "Contraseña";
             // 
@@ -71,9 +71,9 @@
             label3.BackColor = Color.Transparent;
             label3.Font = new Font("Tw Cen MT", 27.75F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
             label3.ForeColor = Color.Red;
-            label3.Location = new Point(105, 180);
+            label3.Location = new Point(120, 240);
             label3.Name = "label3";
-            label3.Size = new Size(127, 43);
+            label3.Size = new Size(158, 54);
             label3.TabIndex = 2;
             label3.Text = "Usuario";
             label3.Click += label3_Click;
@@ -87,9 +87,10 @@
             button1.FlatStyle = FlatStyle.Flat;
             button1.Font = new Font("Verdana", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button1.ForeColor = SystemColors.ControlText;
-            button1.Location = new Point(328, 360);
+            button1.Location = new Point(375, 480);
+            button1.Margin = new Padding(3, 4, 3, 4);
             button1.Name = "button1";
-            button1.Size = new Size(137, 46);
+            button1.Size = new Size(157, 61);
             button1.TabIndex = 3;
             button1.Text = "INGRESAR";
             button1.UseVisualStyleBackColor = false;
@@ -98,34 +99,37 @@
             // textBox1
             // 
             textBox1.BackColor = SystemColors.HighlightText;
-            textBox1.Location = new Point(294, 190);
+            textBox1.Location = new Point(336, 253);
+            textBox1.Margin = new Padding(3, 4, 3, 4);
             textBox1.Name = "textBox1";
-            textBox1.Size = new Size(265, 23);
+            textBox1.Size = new Size(302, 27);
             textBox1.TabIndex = 4;
             // 
             // textBox2
             // 
-            textBox2.Location = new Point(294, 278);
+            textBox2.Location = new Point(336, 371);
+            textBox2.Margin = new Padding(3, 4, 3, 4);
             textBox2.Name = "textBox2";
-            textBox2.Size = new Size(265, 23);
+            textBox2.Size = new Size(302, 27);
             textBox2.TabIndex = 5;
             // 
             // pictureBox1
             // 
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(605, -44);
+            pictureBox1.Location = new Point(691, -59);
+            pictureBox1.Margin = new Padding(3, 4, 3, 4);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(204, 222);
+            pictureBox1.Size = new Size(233, 296);
             pictureBox1.SizeMode = PictureBoxSizeMode.CenterImage;
             pictureBox1.TabIndex = 6;
             pictureBox1.TabStop = false;
             // 
             // Login
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.LightSteelBlue;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(926, 658);
             Controls.Add(pictureBox1);
             Controls.Add(textBox2);
             Controls.Add(textBox1);
@@ -136,6 +140,7 @@
             Cursor = Cursors.No;
             ForeColor = SystemColors.ControlText;
             FormBorderStyle = FormBorderStyle.Fixed3D;
+            Margin = new Padding(3, 4, 3, 4);
             Name = "Login";
             Text = "Pantalla de Login";
             Load += Login_Load;
